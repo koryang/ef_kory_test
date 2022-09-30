@@ -23,7 +23,6 @@ Add the following dependency to your pom.xml:
   - [Cucumber Eclipse](https://cucumber.github.io/cucumber-eclipse/)
 
 # Running test
-- update the 
 
 | action                  | command                                   |
 |-------------------------|-------------------------------------------|
